@@ -9,7 +9,8 @@
 
 # assests
 *.uasset
-
+Content\LuosCaves\Maps\*
+Content\RealisticDesertPack\Maps\*
 # Precompiled Headers
 *.gch
 *.pch

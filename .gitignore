@@ -12,6 +12,8 @@
 Content/LuosCaves/Maps/*
 Content/LuosCaves/Levels/*
 Content/RealisticDesertPack/Maps/*
+.vscode\*
+
 # Precompiled Headers
 *.gch
 *.pch
